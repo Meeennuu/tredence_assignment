@@ -19,7 +19,9 @@ The goal of the assignment is to build:
    -Support branching and looping
 
 -A tool registry to store tool functions
+
 -A graph engine to run workflows
+
 -A working FastAPI backend exposing the required API endpoints
 
 -A sample intelligent workflow (Code Review Agent)
@@ -39,7 +41,7 @@ This repository includes:
 **Project Structure**
 
 TRENDENCE_ASSIGNMENT/
-│
+
 ├── app/
 
 │   ├── __init__.py
